@@ -48,5 +48,5 @@ Student Grade Tracker is a Java-based application that helps manage student reco
    java StudentGradeTracker
 
 ## Author
-Your Name
+
 Aryan Raj
